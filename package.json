@@ -1,0 +1,20 @@
+{
+  "name": "package",
+  "version": "6.13.4",
+  "description": "freshworks assignment by praveen vamsi vasamsetti",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20171cse0751/Freshworks_assignment.git"
+  },
+  "author": "praveen_vamsi_vasamsetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20171cse0751/Freshworks_assignment/issues"
+  },
+  "homepage": "https://github.com/20171cse0751/Freshworks_assignment#readme"
+}
